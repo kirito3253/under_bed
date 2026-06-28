@@ -50,3 +50,7 @@ python underbed_final.py
 |---|---|
 | 左モータ | 17, 18 |
 | 右モータ | 19, 20 |
+
+## 担当部分
+- detect_object.py
+- detect_color_position.py
